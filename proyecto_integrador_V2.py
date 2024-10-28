@@ -1,11 +1,5 @@
 #PROYECTO FINAL DE ANÁLISIS DE DATOS NIVEL INTEGRADOR
      #Análisis del Talento Humano en Ciencia y Tecnología en Colombia.
-#Integrantes
-     #Santiago Londoño
-          #C.C. 1036952306
-     #Luis Fernando Restrepo
-          #C.C. 1036954446
-
 
 # Paso Importar las bibliotecas necesarias
 import pandas as pd
